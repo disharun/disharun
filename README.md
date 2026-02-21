@@ -70,13 +70,7 @@ Next.js + Gemini AI + Clerk Authentication
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
- <img src="https://github.com/disharun/disharun/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
